@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gizmotehcat... don't ask, my human name is Pedro
+- 👀 I love building aesthetically pleasing apps.
+- 🌱 I’m currently going through a career change and have thrown myself into the world of software development with an emphasis on full-stack dev. I was warned it would be incredibly frustrating, I should have listened! 
